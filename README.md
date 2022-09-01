@@ -7,6 +7,6 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working on something cool!
-- 🌱 I’m a CS student at UPN "Vetera" Jawa Timur
+- 🌱 I’m a 4th-years CS student at UPN "Vetera" Jawa Timur
 - 📫 How to reach me: ayuwagata@gmail.com
 
