@@ -6,6 +6,6 @@
 Here are some ideas to get you started:
 -->
 
-- 🌱 I’m a 4th-years CS student at UPN "Veteran" Jawa Timur
+- 🌱 4th-years CS student
 - 📫 How to reach me: ayuwagata@gmail.com
 
