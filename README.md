@@ -6,6 +6,6 @@
 Here are some ideas to get you started:
 -->
 
-- 🌱 4th-years CS student
+- 🌱 4th-year CS student
 - 📫 How to reach me: ayuwagata@gmail.com
 
