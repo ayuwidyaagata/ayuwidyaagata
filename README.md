@@ -6,6 +6,6 @@
 Here are some ideas to get you started:
 -->
 
-- 🌱 4th-year CS student
+- 🌱 Full Stack Engineer
 - 📫 How to reach me: ayuwagata@gmail.com
 
