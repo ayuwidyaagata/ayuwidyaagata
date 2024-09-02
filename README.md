@@ -6,6 +6,6 @@
 Here are some ideas to get you started:
 -->
 
-- 🌱 Full Stack Engineer
+- 🌱 Frontend Engineer
 - 📫 How to reach me: ayuwagata@gmail.com
 
