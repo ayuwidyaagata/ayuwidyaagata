@@ -6,6 +6,6 @@
 Here are some ideas to get you started:
 -->
 
-- 🌱 Frontend Engineer
+- 🌱 Software Engineer
 - 📫 How to reach me: ayuwagata@gmail.com
 
