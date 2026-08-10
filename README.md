@@ -8,4 +8,4 @@ Here are some ideas to get you started:
 
 - 🌱 Software Engineer
 - 📫 How to reach me: ayuwagata@gmail.com
-
+- 🐞 Soul behind [@the-last-of-the-bugs](https://github.com/the-last-of-the-bugs)
